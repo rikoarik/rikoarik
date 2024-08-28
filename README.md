@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying in University Trunojoyo Madura<br>🌱 I’m currently learning Android Developer<br>💬 Ask me about Java, Python And Kotlin<br>📫 How to reach me rikoarik04@gmail.com<br>📄 Know about my experiences my experiences<br>⚡ Fun fact I think I'm funny
+🔭 I’m currently studying in University Trunojoyo Madura<br>🌱 I’m currently learning Android Developer<br>💬 Ask me about Java, Python And Kotlin<br>📫 How to reach me rikoarik04@gmail.com<br>📄 Know about my experiences<br>⚡ Fun fact I think I'm funny
 
 
 ## 🌐 Socials:
