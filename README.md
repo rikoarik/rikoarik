@@ -1,90 +1,122 @@
-<br clear="both">
-
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
-
-<br clear="both">
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="60" alt="jetpackcompose logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="60" alt="xcode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="60" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
+
+# Arik Riko Prasetya
+
+**Mobile Developer · Building products that actually ship.**
+
+Kotlin / Android · React Native / Expo · Flutter
+
+*Ship fast. Polish hard. Build real.*
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-18181B?style=for-the-badge&logo=vercel&logoColor=white)](https://arkdev.my.id/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-18181B?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rikoarik)
+[![Email](https://img.shields.io/badge/EMAIL-18181B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rikoarik04@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=rikoarik&label=PROFILE+VIEWS&color=64748b&style=flat-square" alt="Profile Views" />
+
 </div>
 
-###
+---
+
+### 01 / About
+
+I build production-ready mobile applications, with a focus on **fintech, payments, and everyday digital experiences**.
+
+Over 2 years of mobile development experience, contributing to **15+ production applications** across Android and cross-platform ecosystems.
+
+My work revolves around clean architecture, reliable API integrations, polished interactions, and delivering software that works beyond the development environment.
+
+- Currently building mobile products at **PT Teknologi Kartu Indonesia**
+- Experienced with fintech, merchant, and multi-tenant applications
+- From architecture and implementation to CI/CD and store deployment
+- Based in Indonesia 🇮🇩
+
+### 02 / What I Work With
+
+**Mobile Development**
+
+![Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,react,ts&theme=dark)
+
+**Backend & Infrastructure**
+
+![Skills](https://skillicons.dev/icons?i=laravel,php,mysql,firebase,git,github&theme=dark)
+
+**Tools & Workflow**
+
+![Skills](https://skillicons.dev/icons?i=vscode,postman,figma,gitlab&theme=dark)
+
+`MVVM` · `Clean Architecture` · `BLoC` · `REST APIs` · `Zustand` · `CI/CD`
+
+### 03 / Selected Work
+
+Some of the products and experiments I've built.
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| [Finance Chat AI](https://github.com/rikoarik/finance-management-ai) | Personal finance app with AI-powered transaction tracking | Flutter, Firebase, AI |
+| [Explore Bojonegoro](https://github.com/rikoarik/ExploreBojonegoro) | Geographic information system for tourism exploration | Kotlin, Android |
+| [Task Management](https://github.com/rikoarik/Task-Management) | Native Android task management project | Kotlin |
+| [Portfolio](https://arkdev.my.id/) | My work, experience, and selected production applications | Web |
+
+**Production experience**
+
+`Member App Ecosystem` · `Puas HUB` · `Merchant SolusiNegeri` · `DIGILUH`
+
+[Explore my selected work ↗](https://arkdev.my.id/)
+
+---
+
+### 04 / GitHub Analytics
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rikoarik/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/ark_npc314/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rikoarik&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikoarik&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
+
+<img width="75%" src="https://streak-stats.demolab.com?user=rikoarik&theme=github-dark-blue&hide_border=true" alt="Contribution Streak" />
+
 </div>
 
-###
+### 05 / Contribution Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rikoarik&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rikoarik&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="170" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rikoarik&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rikoarik&bg_color=0d1117&color=c9d1d9&line=38bdf8&point=ffffff&area=true&area_color=38bdf8&hide_border=true)](https://github.com/rikoarik)
+
 </div>
 
-###
+<!--
+WAKATIME INTEGRATION
 
-<img src="https://raw.githubusercontent.com/rikoarik/rikoarik/output/snake.svg" alt="Snake animation" />
+After setting up WakaTime:
+1. Replace YOUR_WAKATIME_USERNAME below.
+2. Enable public coding statistics on WakaTime.
+3. Remove this opening comment and the closing comment below.
 
-###
+### 06 / Coding Time
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rikoarik.rikoarik&"  />
+
+**Time spent coding, automatically tracked by WakaTime.**
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8&display_format=time)](https://wakatime.com/)
+
 </div>
 
-###
+-->
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+---
+
+<div align="center">
+
+### Have something in mind?
+
+I'm always interested in meaningful products,
+interesting engineering challenges, and collaboration.
+
+**[Let's build something together ↗](mailto:rikoarik04@gmail.com)**
+
+<sub>Built with curiosity. Maintained with intention.</sub>
+
 </div>
-
-###
